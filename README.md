@@ -103,26 +103,3 @@ If not — simply open `index.html` in your browser.
 * Image assets are stored inside the /images folder.
 
 ---
-
-## Deployment Tips
-
-* GitHub Pages works perfectly with this project — just ensure the index.html file is in the deployment root.
-* Make sure:
-  * all asset paths are relative (no leading /)
-  * compiled CSS is included if you are using Sass
-  * you deploy the final src structure properly
-
----
-
-## README Checklist
-
-* [x] Correct project title
-* [x] Clear description
-* [x] Working live demo
-* [x] Tech stack
-* [x] Setup instructions
-* [x] Clean folder structure
-* [x] No unnecessary files
-
----
-
